@@ -1,11 +1,12 @@
 /* Reset */
 * {
-    margin: 0;
-    padding: 0;
+    margin: 15px;
+    padding: 15px;
     box-sizing: border-box;
 }
 
 body {
+    margin-top: 20px;
     font-family: 'Arial', sans-serif;
     background-color: #f8f9fa;
     display: flex;
