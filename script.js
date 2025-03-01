@@ -47,7 +47,7 @@ function openDiscoursePage() {
             <div class="file-list">
                 <a href="https://docs.google.com/document/d/1BC_tlMqqHCf3UplWufvcEKXr1nFGB9Wp/edit?usp=sharing&ouid=100315973227451093128&rtpof=true&sd=true" class="file-button" target="_blank">📄 Materi "Chapter 2 Types of Context"</a>
                 <a href="https://docs.google.com/document/d/1LxPqOZGlE3sDemDJaoNu3IYSH1FAPpCK/edit?usp=sharing&ouid=100315973227451093128&rtpof=true&sd=true" class="file-button" target="_blank">📄 Materi "Pragmatic and discourse analysis"</a>
-                <a href="https://drive.google.com/drive/folders/1AUwJiH-biU2YHkM1aiUCz5fIlaAUJCdM" class="file-button" target="_blank">📄 Assignment 1 (6Context)</a>
+                <a href="https://drive.google.com/drive/folders/1AUwJiH-biU2YHkM1aiUCz5fIlaAUJCdM" class="file-button" target="_blank">📄 Assignment 1 (6 Context)</a>
             </div>
         </body>
         </html>
@@ -157,8 +157,8 @@ function openSemanticPage() {
                 <a href="https://docs.google.com/document/d/1m_euPTwMtpr_GceX5dkw3ETWwMnWxaqY/edit?usp=sharing&ouid=100315973227451093128&rtpof=true&sd=true" class="file-button" target="_blank">📅 Silabus Semantics</a>
                 <a href="https://drive.google.com/file/d/16LrPGvf3OwPDZWH1T-pqgd2MTKipFnB0/view?usp=sharing" class="file-button" target="_blank">📚 Buku "Semantic a cousrsebook"</a>
                 <a href="https://drive.google.com/file/d/1X9Z27m6YM8_SoSl2mjyGajUJj-6Fbw6K/view?usp=sharing" class="file-button" target="_blank">📚 Buku "Introduction to Language (Fromkin)"</a>
-                <a href="*Menyorot Multitafsir Ceramah Ustadz Adi Hidayat dari Sudut Pandang Linguistik* https://www.kompasiana.com/irfanhamonangantarihoran5436/663a394dde948f7b5d0b2562/menyorot-multitafsir-ceramah-ustadz-adi-hidayat-dari-sudut-pandang-linguistik?utm_source=Whatsapp&utm_medium=Refferal&utm_campaign=Sharing_Mobile" class="file-button" target="_blank">📝 Artikel Ust. Adi Hidayat (Kompasiana)</a>
-                <a href="*Maaf Memaafkan atau Maaf-Maafan: Antara Proposisi dengan Formalitas Fitri* https://www.kompasiana.com/irfanhamonangantarihoran5436/6769f0ebc925c436cf42f232/maaf-memaafkan-atau-maaf-maafan-antara-proposisi-dengan-formalitas-fitri?utm_source=Whatsapp&utm_medium=Refferal&utm_campaign=Sharing_Mobile" class="file-button" target="_blank">📝 Artikel "Maaf Memaafkan atau Maaf-Maafan"</a>
+                <a href="https://www.kompasiana.com/irfanhamonangantarihoran5436/663a394dde948f7b5d0b2562/menyorot-multitafsir-ceramah-ustadz-adi-hidayat-dari-sudut-pandang-linguistik?utm_source=Whatsapp&utm_medium=Refferal&utm_campaign=Sharing_Mobile" class="file-button" target="_blank">📝 Artikel Ust. Adi Hidayat (Kompasiana)</a>
+                <a href="https://www.kompasiana.com/irfanhamonangantarihoran5436/6769f0ebc925c436cf42f232/maaf-memaafkan-atau-maaf-maafan-antara-proposisi-dengan-formalitas-fitri?utm_source=Whatsapp&utm_medium=Refferal&utm_campaign=Sharing_Mobile" class="file-button" target="_blank">📝 Artikel "Maaf Memaafkan atau Maaf-Maafan"</a>
             </div>
         </body>
         </html>
