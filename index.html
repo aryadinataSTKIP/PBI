@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>PBI 2022 Website</title>
+    <link rel="stylesheet" href="style.css">
+    <script src="script.js" defer></script>
+</head>
+<body>
+    <div class="container">
+        <h1>All Materials You Need </h1>
+        <div class="file-list">
+            <a href="https://drive.google.com/file/d/1CXEt5gkBMN80MFrJUkZI4xE35u7rBb6E/view?usp=sharing" class="file-button" target="_blank">📅 Jadwal Pelajaran</a>
+            <a href="https://drive.google.com/file/d/12nAbOB5WqnYcwDKgtzX-F4JSlf80YTBt/view?usp=sharing" class="file-button" target="_blank">👨‍🏫 Dosen Pembimbing</a>
+            <a href="#" class="file-button" target="_blank" onclick="openPoetryPage()">✍️ Poetry</a>
+            <a href="#" class="file-button" target="_blank" onclick="openPsychoPage()">🧠 Psycholinguistics</a>
+            <a href="#" class="file-button" target="_blank" onclick="openProsePage()">📖 Prose</a>
+            <a href="#" class="file-button" target="_blank" onclick="openESPPage()">🗣️ English for Specific Purpose</a>
+            <a href="#" class="file-button" target="_blank" onclick="openErrorPage()">❌ Error Analysis</a>
+            <a href="#" class="file-button" target="_blank" onclick="openSemanticPage()">📝 English Semantic & Pragmatics</a>
+            <a href="#" class="file-button" target="_blank" onclick="openSocioPage()">🌍 Sociolinguistics</a>
+            <a href="#" class="file-button" target="_blank" onclick="openQuantiPage()">📊 Quantitative Research Methods</a>
+            <a href="#" class="file-button" target="_blank" onclick="openDramaPage()">🎭 Drama</a>
+            <a href="#" class="file-button" target="_blank" onclick="openDiscoursePage()">🗨️ Discourse Analysis</a>
+            <a href="#" class="file-button" target="_blank" onclick="openTranslationPage()">🔄 Translation & Interpretation</a>
+        </div>
+        <button class="give-donation-btn" onclick="toggleDonation()">Give Donation</button>
+    </div>
+    
+    <div id="donation-container" class="donation-container" style="display: none;">
+        <div class="donation-card">
+            <h2>🤝 Support Our Website!</h2>
+            <p>Support us even with 1,000 Rupiah 💖</p>
+            <div class="bank-details">
+                <div class="bank-item">
+                    <img src="bni-logo.png" alt="BNI">
+                    <p><strong>BNI:</strong> 1398558850 <br> a/n M Arya Sukmadinata</p>
+                </div>
+                <div class="bank-item">
+                    <img src="bri-logo.jpg" alt="BRI">
+                    <p><strong>BRI:</strong> 009301064471507 <br> a/n M Arya Sukmadinata</p>
+                </div>
+                <div class="bank-item">
+                    <img src="dana-logo.jpeg" alt="Dana">
+                    <p><strong>Dana:</strong> 082147002645 <br> a/n M Arya Sukmadinata</p>
+                </div>
+            </div>
+            <button class="donate-btn" onclick="toggleDonation()">Close</button>
+        </div>
+    </div>
+</body>
+</html>
