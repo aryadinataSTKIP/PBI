@@ -47,6 +47,7 @@ function openDiscoursePage() {
             <div class="file-list">
                 <a href="https://docs.google.com/document/d/1BC_tlMqqHCf3UplWufvcEKXr1nFGB9Wp/edit?usp=sharing&ouid=100315973227451093128&rtpof=true&sd=true" class="file-button" target="_blank">📄 Materi "Chapter 2 Types of Context"</a>
                 <a href="https://docs.google.com/document/d/1LxPqOZGlE3sDemDJaoNu3IYSH1FAPpCK/edit?usp=sharing&ouid=100315973227451093128&rtpof=true&sd=true" class="file-button" target="_blank">📄 Materi "Pragmatic and discourse analysis"</a>
+                <a href="https://drive.google.com/drive/folders/1AUwJiH-biU2YHkM1aiUCz5fIlaAUJCdM" class="file-button" target="_blank">📄 Assignment 1 (6Context)</a>
             </div>
         </body>
         </html>
