@@ -267,7 +267,7 @@ function openPsychoPage() {
                 <a href="https://docs.google.com/document/d/1f__ArX4B78P_mTnO_KucYTnTpC-OKT9s/edit?usp=sharing&ouid=100315973227451093128&rtpof=true&sd=true" class="file-button" target="_blank">📄 RPS Psycholinguistics</a>
                 <a href="https://drive.google.com/file/d/1kaIqsY-w32IiZFoWwKh9NozhsOcW4zI2/view?usp=drive_link" class="file-button" target="_blank">📚 Buku "Fundamental of Psycholinguistics"</a>
                 <a href="https://drive.google.com/file/d/1XMJ8UafpF0pF3w8_168sbjhtZxcEfoSU/view?usp=drive_link" class="file-button" target="_blank">📚 Buku "An_Introduction_to_Psycholinguistics"</a>
-                <a href="https://docs.google.com/presentation/d/1qPzW4lNfm7Jw14yhNdgMDe1GW4Vizhnx/edit?usp=drive_link&ouid=100315973227451093128&rtpof=true&sd=true" class="file-button" target="_blank">📄 PPT Group 1 "Left & Right Hemisphere"</a>
+                <a href="https://drive.google.com/drive/folders/1HmhAnRvx2HnJy--L4OuGWRnTG8K4qdjD?usp=drive_link" class="file-button" target="_blank">📄 PPT "</a>
             </div>
         </body>
         </html>
