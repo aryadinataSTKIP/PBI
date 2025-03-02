@@ -340,3 +340,6 @@ function openNewPage() {
     `);
     newWindow.document.close();
 }
+
+function redirectToPulsa() {
+    window.location.href = "https://aryadinatastkip.github.io/pulsa-website/";
