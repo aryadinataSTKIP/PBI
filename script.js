@@ -317,29 +317,4 @@ function showDonationPage() {
 
 function hideDonationPage() {
     document.getElementById('donation-container').style.display = 'none';
-}
 
-function openNewPage() {
-    let newWindow = window.open("", "_blank");
-    newWindow.document.write(`
-        <html>
-        <head>
-            <title>Poetry</title>
-            <link rel="stylesheet" href="style.css">
-        </head>
-        <body>
-            <div class="container">
-                <h2>What Do You Want To Know About Poetry?</h2>
-                <a href="https://drive.google.com/file/d/1QJB3ovB4i7ZNQgXg30aIJs993IrcfJsm/view?usp=sharing" class="file-button" target="_blank">Poetry Definition</a>
-                <a href="https://drive.google.com/file/d/1B34umr5pTPYJt-Rsht4HCtWcvoHRUO2z/view?usp=sharing" class="file-button" target="_blank">Presentation Materials</a>
-                <a href="https://drive.google.com/file/d/1zsb3EYj8Rs7xNqcfvi_GelNJfYzmWB0R/view?usp=sharing" class="file-button" target="_blank">Poetry SLP (Student Learning Plan)</a>
-                <button class="back-btn" onclick="window.close()">Back</button>
-            </div>
-        </body>
-        </html>
-    `);
-    newWindow.document.close();
-}
-
-function redirectToPulsa() {
-    window.location.href = "https://aryadinatastkip.github.io/pulsa-website/";
