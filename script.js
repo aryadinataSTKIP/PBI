@@ -47,7 +47,6 @@ function openDiscoursePage() {
             <div class="file-list">
                 <a href="https://docs.google.com/document/d/1BC_tlMqqHCf3UplWufvcEKXr1nFGB9Wp/edit?usp=sharing&ouid=100315973227451093128&rtpof=true&sd=true" class="file-button" target="_blank">📄 Materi "Chapter 2 Types of Context"</a>
                 <a href="https://docs.google.com/document/d/1LxPqOZGlE3sDemDJaoNu3IYSH1FAPpCK/edit?usp=sharing&ouid=100315973227451093128&rtpof=true&sd=true" class="file-button" target="_blank">📄 Materi "Pragmatic and discourse analysis"</a>
-                <a href="https://drive.google.com/drive/folders/1AUwJiH-biU2YHkM1aiUCz5fIlaAUJCdM" class="file-button" target="_blank">📄 Assignment 1 (6 Context)</a>
             </div>
         </body>
         </html>
@@ -267,7 +266,7 @@ function openPsychoPage() {
                 <a href="https://docs.google.com/document/d/1f__ArX4B78P_mTnO_KucYTnTpC-OKT9s/edit?usp=sharing&ouid=100315973227451093128&rtpof=true&sd=true" class="file-button" target="_blank">📄 RPS Psycholinguistics</a>
                 <a href="https://drive.google.com/file/d/1kaIqsY-w32IiZFoWwKh9NozhsOcW4zI2/view?usp=drive_link" class="file-button" target="_blank">📚 Buku "Fundamental of Psycholinguistics"</a>
                 <a href="https://drive.google.com/file/d/1XMJ8UafpF0pF3w8_168sbjhtZxcEfoSU/view?usp=drive_link" class="file-button" target="_blank">📚 Buku "An_Introduction_to_Psycholinguistics"</a>
-                <a href="https://drive.google.com/drive/folders/1HmhAnRvx2HnJy--L4OuGWRnTG8K4qdjD?usp=drive_link" class="file-button" target="_blank">📄 Kumpulan PPT Presentasi Mahasiswa "</a>
+                <a href="https://docs.google.com/presentation/d/1qPzW4lNfm7Jw14yhNdgMDe1GW4Vizhnx/edit?usp=drive_link&ouid=100315973227451093128&rtpof=true&sd=true" class="file-button" target="_blank">📄 PPT Group 1 "Left & Right Hemisphere"</a>
             </div>
         </body>
         </html>
@@ -317,4 +316,31 @@ function showDonationPage() {
 
 function hideDonationPage() {
     document.getElementById('donation-container').style.display = 'none';
+}
+
+function openNewPage() {
+    let newWindow = window.open("", "_blank");
+    newWindow.document.write(`
+        <html>
+        <head>
+            <title>Poetry</title>
+            <link rel="stylesheet" href="style.css">
+        </head>
+        <body>
+            <div class="container">
+                <h2>What Do You Want To Know About Poetry?</h2>
+                <a href="https://drive.google.com/file/d/1QJB3ovB4i7ZNQgXg30aIJs993IrcfJsm/view?usp=sharing" class="file-button" target="_blank">Poetry Definition</a>
+                <a href="https://drive.google.com/file/d/1B34umr5pTPYJt-Rsht4HCtWcvoHRUO2z/view?usp=sharing" class="file-button" target="_blank">Presentation Materials</a>
+                <a href="https://drive.google.com/file/d/1zsb3EYj8Rs7xNqcfvi_GelNJfYzmWB0R/view?usp=sharing" class="file-button" target="_blank">Poetry SLP (Student Learning Plan)</a>
+                <button class="back-btn" onclick="window.close()">Back</button>
+            </div>
+        </body>
+        </html>
+    `);
+    newWindow.document.close();
+}
+
+function redirectToPulsa() {
+    window.location.href = "https://aryadinatastkip.github.io/pulsa-website/";
+}
 
